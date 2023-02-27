@@ -13,4 +13,4 @@ As I am a beginner, I felt that EJS is easier for me to learn. EJS is so similar
 ![add_user](https://user-images.githubusercontent.com/99710364/221640506-037da32c-ba0a-412b-aad9-b0447576fe3b.png)
 
 
-![show_user](https://user-images.githubusercontent.com/99710364/221640515-03b27e4f-bc32-4459-aa86-f06c00433f31.png)
+![show_user](https://user-images.githubusercontent.com/99710364/221643621-d450c0d1-7a12-429a-bf6b-dd1a6c50ae4c.png)
