@@ -1,6 +1,6 @@
 # Node.js-Assignment-4
 
-Create an npm project with express using Ejs template engine.
+Created an npm project with express using Ejs template engine.
 
 # Reason for selecting the Ejs template engine:-
  
