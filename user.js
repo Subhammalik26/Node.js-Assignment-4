@@ -1,6 +1,5 @@
 const express = require('express');   // Include the express module.
 const bodyParser = require('body-parser');   // Include the body-parser module.
-const fs = require('fs');  // Include the file system module.
 const user = express();   // Creates an instance of the express() function and assigns it to a constant variable user.
 
 user.set('view engine', 'ejs');  // Setting up the Ejs template engine.
